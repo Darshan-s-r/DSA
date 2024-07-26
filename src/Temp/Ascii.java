@@ -2,7 +2,7 @@ package Temp;
 
 public class Ascii {
     public static void main(String[] args) {
-        char ch = ' ';
-        System.out.println((int)ch);
+        int ch = 85;
+        System.out.println((char) ch);
     }
 }
