@@ -2,7 +2,7 @@ package LeetCode;
 
 public class RomanTOInt {
     public static void main(String[] args) {
-        System.out.println(romanToInt("LVIII"));
+        System.out.println(romanToInt("LIV"));
     }
     static public int romanToInt(String s) {
         char symbol[] = {'I', 'V', 'X', 'L', 'C', 'D', 'M'};
